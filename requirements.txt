@@ -1,0 +1,6 @@
+cloudscraper==1.2.71
+beautifulsoup4==4.12.3
+requests==2.32.3
+selenium==4.21.0
+pandas==2.2.2
+scikit-learn==1.5.0
